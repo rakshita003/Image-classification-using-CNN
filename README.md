@@ -53,9 +53,13 @@ The model was trained over 20 epochs with data augmentation techniques applied d
 ## Results
 
 - Test Accuracy: 94.28%
+  
 - Confusion Matrix:
+
 <img width="489" alt="image" src="https://github.com/rakshita003/Image-classification-using-CNN/assets/43514952/7649dc20-6814-45ca-8489-a816d8df2449">
+
 - Classification Report:
+- 
 <img width="337" alt="image" src="https://github.com/rakshita003/Image-classification-using-CNN/assets/43514952/5603a6ae-3058-4b0c-a51f-897858dce8c5">
 
 
