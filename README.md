@@ -52,20 +52,22 @@ The model was trained over 20 epochs with data augmentation techniques applied d
 
 ## Results
 
-- Test Accuracy: 94.28%
+- Test Accuracy: 99.36%
   
 - Confusion Matrix:
 
-  <img width="489" alt="image" src="https://github.com/rakshita003/Image-classification-using-CNN/assets/43514952/7649dc20-6814-45ca-8489-a816d8df2449">
+  <img width="488" alt="image" src="https://github.com/rakshita003/Image-classification-using-CNN/assets/43514952/921878db-00e1-4441-8be1-7b40d4dce1db">
+
   
 - Classification Report:
 
-  <img width="337" alt="image" src="https://github.com/rakshita003/Image-classification-using-CNN/assets/43514952/5603a6ae-3058-4b0c-a51f-897858dce8c5">
+ <img width="347" alt="image" src="https://github.com/rakshita003/Image-classification-using-CNN/assets/43514952/abdb4286-d2f4-475c-a4ef-601dc93615f7">
+
 
 
 ## Conclusion
 
-In this side project, I successfully implemented a CNN-based image classification model using the CIFAR-10 dataset. I learned various deep learning concepts and techniques, including data preprocessing, data augmentation, model design, and model evaluation. The model achieved a test accuracy of 94.28%, and the results were analyzed using a confusion matrix and classification report.
+In this side project, I successfully implemented a CNN-based image classification model using the CIFAR-10 dataset. I learned various deep learning concepts and techniques, including data preprocessing, data augmentation, model design, and model evaluation. The model achieved a test accuracy of 99.36%, and the results were analyzed using a confusion matrix and classification report.
 
 This project serves as a learning experience and can be further extended with additional experimentation and improvements to achieve even better results.
 
