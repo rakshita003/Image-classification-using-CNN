@@ -27,7 +27,7 @@ Throughout this project, I gained hands-on experience and knowledge in the follo
 
 ## Dataset
 
-I used the CIFAR-10 dataset, which consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The dataset is divided into a training set (50,000 images) and a test set (10,000 images).
+I used the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset, which consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The dataset is divided into a training set (50,000 images) and a test set (10,000 images).
 
 ## Model Architecture
 
